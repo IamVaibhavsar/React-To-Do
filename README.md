@@ -24,15 +24,23 @@ The Tasks are Deleted sucessfully.
 
 ---
 
-In the project directory, you can run:
+To install the node modules: <br>
+In the Project directory, Run
+### `npm install`
 
+In the project directory, you can run:
 ### `npm start`
 
-ex. `cd desktop/ReactToDo/lcotodo`
+ex. `cd desktop/ReactToDo/`
 and then run, `npm start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ---
-# Thank You
+
+### Thank You.
+
+
+
+
