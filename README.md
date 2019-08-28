@@ -8,7 +8,7 @@ A to-Do Web Application using react.js that lets user add tasks, Mark them Done 
 
 [See the Project](https://github.com/IamVaibhavsar/React-To-Do "React-To-Do")
 
-![Start](https://github.com/IamVaibhavsar/React-To-Do/blob/master/start.jpg "Start")
+![Start](https://github.com/IamVaibhavsar/React-To-Do/blob/master/start1.jpg "Start")
 
 Add the task:<br>
 Write Your Todo's and click on `ADD TODO` button.
@@ -26,9 +26,11 @@ The Tasks are Deleted sucessfully.
 
 To install the node modules: <br>
 In the Project directory, Run
+
 ### `npm install`
 
 In the project directory, you can run:
+
 ### `npm start`
 
 ex. `cd desktop/ReactToDo/`
@@ -40,7 +42,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ---
 
 ### Thank You.
-
-
-
-
